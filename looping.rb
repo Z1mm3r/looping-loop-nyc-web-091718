@@ -2,7 +2,7 @@ def looping
 	#your code here
 	
 	while(true)
-	  puts "Wingardium Leviosas"
+	  puts "Wingardium Leviosa"
 	end
 	
 end
